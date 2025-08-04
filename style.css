@@ -1,0 +1,51 @@
+/* Nội dung */
+.content {
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+}
+
+/* Header */
+header {
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+/* Nav */
+nav {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+/* Main */
+main {
+  background-color: #fafafa;
+  font-size: 16px;
+  padding: 10px;
+}
+
+/* Footer */
+footer {
+  background-color: #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+/* li */
+li {
+  display: inline-block;
+  width: 120px;
+  margin-right: 10px;
+}
+
+/* h1 */
+h1 {
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: #2c3e50;
+}
+
+/* p */
+p {
+  line-height: 1.6;
+}
